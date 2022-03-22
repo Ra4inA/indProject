@@ -1,0 +1,19 @@
+/*fonts*/
+
+@import "fonts.css";
+
+
+/*Specification*/
+
+*{
+	box-sizing: border-box;
+}
+
+*:focus {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+html{
+	overflow-x: hidden;
+}
