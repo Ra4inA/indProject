@@ -1,2 +1,2 @@
-# Waxom
- Landing page
+# indProject
+ web-site
