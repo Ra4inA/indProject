@@ -1,2 +1,0 @@
-# Waxom
- Landing page
