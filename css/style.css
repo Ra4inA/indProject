@@ -1937,9 +1937,19 @@ footer.rows .container {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	height: 100px;
+	min-height: 100px;
 	background-image: linear-gradient( 90deg, rgb(33,27,25) 0%, rgb(78,52,39) 100%);
 	margin-bottom: 70px;
+	padding: 10px 20px
+}
+
+.engine__link-container_bottom {
+	margin: 70px 0 0 0;
+}
+.engine__link-container_bottom .container {
+	display: flex;
+	align-items: center;
+	padding-bottom: 30px;
 }
 .engine__link {
 	display: inline-block;
