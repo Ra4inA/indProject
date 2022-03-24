@@ -1,2 +1,2 @@
-# indPriject
+# indProject
  web page
